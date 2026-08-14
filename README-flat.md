@@ -33,8 +33,7 @@ wanted to learn:
 | `02-hipaa-gap-analysis.xlsx` | The main artifact — 4 tabs, see below |
 | `POL-001` / `POL-002` / `POL-003` | Three policies I drafted to close specific gaps — information security, access control, incident response |
 | [`04-summary-report.pdf`](04-summary-report.pdf) | Write-up of what I found — **readable in the browser** |
-| `04-summary-report.docx` | Same report, editable |
-| `05-resume-notes.md` | How I describe this project and what I'd say about it |
+| (04-summary-report.docx) | Same report, editable |
 
 ### The spreadsheet
 
