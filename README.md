@@ -34,7 +34,6 @@ wanted to learn:
 | `03-policies/` | Three policies I drafted to close specific gaps |
 | [`04-summary-report.pdf`](04-summary-report.pdf) | Write-up of what I found — **readable in the browser** |
 | `04-summary-report.docx` | Same report, editable |
-| `05-resume-notes.md` | How I describe this project and what I'd say about it |
 
 ### The spreadsheet
 
